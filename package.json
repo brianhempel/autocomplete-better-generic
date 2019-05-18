@@ -1,0 +1,23 @@
+{
+  "name": "autocomplete-better-generic",
+  "main": "./lib/autocomplete-better-generic",
+  "version": "1.0.0",
+  "description": "Generic autocomplete provider with smarter and more aggressive heuristics than autocomplete-plus's built-in provider.",
+  "keywords": [
+    "autocomplete"
+  ],
+  "repository": "https://github.com/brianhempel/autocomplete-better-generic",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "4.0.0": "provide"
+      }
+    }
+  },
+  "dependencies": {
+  }
+}
