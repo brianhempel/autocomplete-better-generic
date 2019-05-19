@@ -1,7 +1,7 @@
 {
   "name": "autocomplete-better-generic",
   "main": "./lib/autocomplete-better-generic",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "Generic autocomplete provider with smarter and more aggressive heuristics than autocomplete-plus's built-in provider.",
   "keywords": [
     "autocomplete"
